@@ -1,0 +1,3 @@
+to compile, use:
+
+g++ -l sqlite3 test0.c -o test0
